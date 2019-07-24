@@ -1,0 +1,7 @@
+apiVersion: lianzhe.k8s.io/v1
+kind: Student
+metadata:
+  name: lz-crd-02
+spec:
+  name: "李四"
+  school: "深圳中学"
