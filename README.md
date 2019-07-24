@@ -1,4 +1,4 @@
-# k8s_crd_sample_controllert
+# k8s_crd_sample_controller
 
 crd student
 
