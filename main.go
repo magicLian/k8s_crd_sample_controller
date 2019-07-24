@@ -23,7 +23,7 @@ var (
 func main() {
 	flag.Parse()
 
-	// 处理信号量
+	// 处理信号量啊
 	stopCh := signals.SetupSignalHandler()
 
 	// 处理入参
